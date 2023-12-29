@@ -9,13 +9,11 @@
 
 - 💬 Ask me about **Cybersecurity, Bug Bounty, Penetration testing**
 
-- 📫 How to reach me **nisarg0806@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/synix_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="synix_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nisarg vegadava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisarg vegadava" height="30" width="40" /></a>
-<a href="https://instagram.com/univerxse_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="univerxse_07" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisarg vegadava" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="univerxse_07" height="30" width="40" /></a>
 </p>
 
 
