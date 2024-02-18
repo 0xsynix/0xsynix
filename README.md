@@ -18,6 +18,9 @@
 <br>
 <br>
 <a herf="https://tryhackme.com/p/0x5yn1x" target=""><img alig="center" src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" /></a>
+<br>
+<br>
+<a herf=" https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac" target=""><img alig="center" src="https://iconduck.com/icons/27430/google-cloud?shared" alt="Google Cloud" /></a>
 </p>
 
 <h2 align="center"> 🔧 Skills & Tools: </h2>
