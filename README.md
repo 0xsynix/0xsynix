@@ -20,7 +20,7 @@
 <a herf="https://tryhackme.com/p/0x5yn1x" target=""><img alig="center" src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" /></a>
 <br>
 <br>
-<a herf=" https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac" target=""><img alig="center" src="https://icons8.com/icon/WHRLQdbEXQ16/google-cloud" alt="Google Cloud" /></a>
+<a herf=" https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac" target=""><img alig="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="Google Cloud" /></a>
 </p>
 
 <h2 align="center"> 🔧 Skills & Tools: </h2>
