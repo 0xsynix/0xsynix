@@ -16,11 +16,8 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="univerxse_07" height="30" width="40" /></a>
 <br>
 <br>
-<br>
-<a herf="https://tryhackme.com/p/0x5yn1x" target=""><img alig="center" src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" /></a>
-<br>
-<br>
-<a herf=" https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac" target=""><img alig="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="Google Cloud" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/0x5yn1x"><img src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" align="middle"></a> <a href="https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="Google Cloud" width="100" height="100" align="middle"></a>
+
 </p>
 
 <h2 align="center"> 🔧 Skills & Tools: </h2>
