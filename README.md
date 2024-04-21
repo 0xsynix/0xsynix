@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/synix_07" target="blank"><img src="https://img.shields.io/twitter/follow/synix_07?logo=twitter&style=for-the-badge" alt="synix_07" /></a> </p>
 
-- 🌱 I’m currently learning **Red Teaming, Bug Bounty, Penetration testing also interested in Malwares & Malware Development **
+- 🌱 I’m currently learning **Red Teaming, Bug Bounty, Penetration testing also interested in Malwares & Malware Development**
 
 - 💬 Ask me about **Cybersecurity, Bug Bounty, Penetration testing**
 
