@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hi%2C+I'm+Nisarg+(synix)+)](https://git.io/typing-svg)
 <h3 align="center">🔒 Currently exploring the exciting world of red teaming and penetration testing in cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5yn1x08&label=Profile%20views&color=0e75b6&style=flat" alt="5yn1x08" /> </p>
-
 <p align="left"> <a href="https://twitter.com/synix_07" target="blank"><img src="https://img.shields.io/twitter/follow/synix_07?logo=twitter&style=for-the-badge" alt="synix_07" /></a> </p>
 
 - 🌱 I’m currently learning **Red Teaming, Bug Bounty, Penetration testing also interested in Malwares analysis & Malware Development**
@@ -67,8 +65,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/get-icon/geticon/blob/master/icons/kali-logo.svg" alt="Kali" width="40" height="40"> <img src="https://www.axonius.com/hubfs/Adapter%20Logos/wazuh_adapter.png" alt="Wazuh" width="80" height="40"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xNisarg&show_icons=true&locale=en&layout=compact" alt="0xNisarg" /></p>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0xNisarg&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xNisarg&theme=neon&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNisarg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xNisarg&show_icons=true&locale=en" alt="0xNisarg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xNisarg&" alt="0xnisarg" /></p>
+#### 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=0xNisarg&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+#### 🙋‍♂️ Profile Visit:
+![Visitor Count](https://profile-counter.glitch.me/0xNisarg/count.svg)
