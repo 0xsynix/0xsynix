@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisarg Vegadava</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hi%2C+I'm+Nisarg+(synix)+)](https://git.io/typing-svg)
 <h3 align="center">🔒 Currently exploring the exciting world of red teaming and penetration testing in cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5yn1x08&label=Profile%20views&color=0e75b6&style=flat" alt="5yn1x08" /> </p>
