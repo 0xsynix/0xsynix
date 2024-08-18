@@ -66,13 +66,13 @@
 <p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/get-icon/geticon/blob/master/icons/kali-logo.svg" alt="Kali" width="40" height="40"> <img src="https://www.axonius.com/hubfs/Adapter%20Logos/wazuh_adapter.png" alt="Wazuh" width="80" height="40"/></a> </p>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xNisarg&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xNisarg&theme=neon&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=0xsynix&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xsynix&theme=neon&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNisarg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 #### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=0xNisarg&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=0xsynix&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 #### 🙋‍♂️ Profile Visit:
-![Visitor Count](https://profile-counter.glitch.me/0xNisarg/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/0xsynix/count.svg)
