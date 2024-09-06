@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hi%2C+I'm+Nisarg+(synix)+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=00F712&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Hi%2C+I'm+synix!;currently%3A+studying+adversarial+tactics+in+red+teaming;currently%3A+crafting+payloads+for+red+team+engagements;currently%3A+spamming+F5+in+IDA;currently%3A+shadowboxing+security+solutions;currently%3A+configuring+custom+C2+frameworks;currently%3A+evading+EDRs+and+AVs;currently%3A+thumbing+through+grimoires+(SDMs))](https://git.io/typing-svg)
 <h3 align="center">🔒 Currently exploring the exciting world of red teaming and penetration testing in cybersecurity.</h3>
 
 <p align="left"> <a href="https://twitter.com/synix_07" target="blank"><img src="https://img.shields.io/twitter/follow/synix_07?logo=twitter&style=for-the-badge" alt="synix_07" /></a> </p>
