@@ -14,7 +14,10 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="univerxse_07" height="30" width="40" /></a>
 <br>
 <br>
-<a href="https://tryhackme.com/p/0x5yn1x"><img src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" align="middle"></a> <a href="https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="Google Cloud" width="100" height="100" align="middle"></a>
+<a href="https://tryhackme.com/p/0x5yn1x"><img src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" align="middle"></a> 
+<a href="https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="Google Cloud" width="100" height="100" align="middle"></a> &nbsp;&nbsp;
+<a href="https://syn1x.gitbook.io/synixs-gitbook"><img src="https://github.com/0xsynix/0xsynix/blob/main/assets/GitBook%20-%20Icon%20-%20Light.png" alt="GitBook" width="70" height="70" align="middle"></a> 
+
 
 </p>
 
@@ -68,7 +71,7 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xsynix&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xsynix&theme=neon&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNisarg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsynix&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 #### 🔝 Top Contributed Repo:
