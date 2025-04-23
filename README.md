@@ -14,59 +14,13 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="univerxse_07" height="30" width="40" /></a>
 <br>
 <br>
-<a href="https://tryhackme.com/p/0x5yn1x"><img src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" align="middle"></a> 
-<a href="https://www.cloudskillsboost.google/public_profiles/9a5d5e22-45fa-4acd-8270-ecea49c26fac"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="Google Cloud" width="100" height="100" align="middle"></a> &nbsp;&nbsp;
+<a href="https://tryhackme.com/p/0x5yn1x"><img src="https://tryhackme-badges.s3.amazonaws.com/0x5yn1x.png" alt="TryHackMe" align="middle"></a> &nbsp;&nbsp;
 <a href="https://syn1x.gitbook.io/synixs-gitbook"><img src="https://github.com/0xsynix/0xsynix/blob/main/assets/GitBook%20-%20Icon%20-%20Light.png" alt="GitBook" width="70" height="70" align="middle"></a> 
 
 
 </p>
 
-<h2 align="center"> 🔧 Skills & Tools: </h2>
-<p align="center">
-
-
-<a href="https://portswigger.net/burp">
-    <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  <a href="https://github.com/maurosoria/dirsearch">
-    <img src="https://img.shields.io/badge/Dirsearch-1572B6?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
-  </a>
-  <br>
-  <a href="https://github.com/projectdiscovery/nuclei">
-    <img src="https://img.shields.io/badge/Naabu-nuclei-339933?style=for-the-badge&logo=go&logoColor=white">
-  </a>
-  <a href="https://github.com/tomnomnom/">
-    <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
-  <a href="https://www.google.com/intl/en_in/chrome/">
-    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <br>
-  <a href="https://www.metasploit.com/">
-    <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
-  </a>
-  <a href="https://portswigger.net/burp">
-    <img src="https://img.shields.io/badge/Wazuh-00599C?style=for-the-badge&logo=go&logoColor=white">
-  </a>
-</p>
-
-
 ---
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/get-icon/geticon/blob/master/icons/kali-logo.svg" alt="Kali" width="40" height="40"> <img src="https://www.axonius.com/hubfs/Adapter%20Logos/wazuh_adapter.png" alt="Wazuh" width="80" height="40"/></a> </p>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xsynix&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
